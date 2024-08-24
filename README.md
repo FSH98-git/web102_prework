@@ -34,6 +34,7 @@ GIF created with ScreenToGif
 [peek](https://github.com/phw/peek) for Linux. -->
 
 https://github.com/FSH98-git/web102_prework/blob/main/WEB102%20Pre%20Work%20Gif.gif
+https://github.com/FSH98-git/web102_prework/blob/main/WEB102%20Pre%20Work%20Website%20Gif.gif
 
 
 ## Notes
