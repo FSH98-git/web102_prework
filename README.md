@@ -37,7 +37,6 @@ https://github.com/FSH98-git/web102_prework/blob/main/WEB102%20Pre%20Work%20Gif.
 https://github.com/FSH98-git/web102_prework/blob/main/WEB102%20Pre%20Work%20Website%20Gif.gif
 
 
-
 ## Notes
 
 Describe any challenges encountered while building the app.
